@@ -12,7 +12,7 @@ import { NavComponent } from './nav/nav.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
-  declarations: [ AppComponent, HelloComponent, HeaderComponent, ArticleComponent ],
+  declarations: [ AppComponent, HelloComponent, HeaderComponent, ArticleComponent , AsideComponent, FooterComponent, NavComponent ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
