@@ -8,7 +8,7 @@ import { HeaderComponent } from './header/header.component';
 import { ArticleComponent } from './article/article.component';
 import { AsideComponent } from './aside/aside.component';
 import { FooterComponent } from './footer/footer.component';
-import { navComponent } from './nav/nav.component';
+import { NavComponent } from './nav/nav.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
